@@ -1,16 +1,16 @@
-# gaza_transfer
+# Gaza Transfer 💸📲
 
-A new Flutter project.
+An offline-first mobile application built with **Flutter** to enable quick, secure, and intuitive money transfers using **USSD codes**. Specially tailored to operate seamlessly during internet outages and low-connectivity environments.
 
-## Getting Started
+## ✨ Key Features
+- **Offline USSD Transfers:** Generates and triggers precise USSD strings for major local mobile wallets (e.g., PalPay, Jawwal Pay) directly through the device dialer.
+- **Zero Internet Dependency:** Operates fully offline without requiring mobile data or Wi-Fi.
+- **Quick Contact Management:** Save and quickly pick frequent recipients to avoid mistyping phone numbers or wallet IDs.
+- **Transaction History:** Track past payments and transfers stored locally on the device.
+- **Security & PIN Lock:** Integrated PIN code protection to safeguard sensitive financial actions.
 
-This project is a starting point for a Flutter application.
+## 🛠️ Built With
+- **Framework:** [Flutter](https://flutter.dev) (Dart)
+- **Architecture:** Clean, modular structure (Screens, Models, Services, Widgets)
+- **Local Storage:** Shared Preferences
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
